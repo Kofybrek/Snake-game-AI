@@ -1,6 +1,7 @@
 #include <array>
 #include <chrono>
 #include <random>
+#include <algorithm>
 
 #include "Headers/Global.hpp"
 #include "Headers/ForwardPropagation.hpp"

@@ -1,4 +1,5 @@
 #include <SFML/Graphics.hpp>
+#include <cmath>
 
 //Oh, you're wondering how this AMAZING code that I wrote ENTIRELY BY MYSELF without using ANY HELP like Stackoverflow works?
 //This code is SOOOO AMAZING that I don't even have to explain it to you.
