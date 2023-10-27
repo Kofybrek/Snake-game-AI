@@ -130,7 +130,7 @@ int main()
 
 						current_best_score = 0;
 
-						std::sort(snakes.begin(), snakes.end(), std::greater());
+						std::sort(snakes.begin(), snakes.end(), std::greater<Snake>());
 
 						for (unsigned short b = 0; b < gbl::GAME::TOTAL_SNAKES; b++)
 						{
